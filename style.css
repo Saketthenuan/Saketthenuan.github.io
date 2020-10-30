@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("images/banner.jpg") no-repeat center;
+    background: url("https://github.com/Saketthenuan/Saketthenuan.github.io/blob/main/banner.jpg") no-repeat center;
     height: 100vh;
     color: rgb(250, 248, 248);
     min-height: 500px;
